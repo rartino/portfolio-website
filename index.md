@@ -1,7 +1,7 @@
 # Test Testson
 
 Student in applied physics and electrical engineering and
-person exraordineere.
+person extraordinaire.
 
 ## My projects
 
@@ -11,4 +11,3 @@ person exraordineere.
 ## My skills
 
 * Git and GitHub
-
