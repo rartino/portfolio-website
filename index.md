@@ -1,6 +1,7 @@
 # Test Testson
 
-Student in applied physics and electrical engineering
+Student in applied physics and electrical engineering and
+person extraordinaire.
 
 ## My projects
 
@@ -10,4 +11,3 @@ Student in applied physics and electrical engineering
 ## My skills
 
 * Git and GitHub
-
