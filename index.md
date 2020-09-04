@@ -1,6 +1,7 @@
 # Test Testson
 
-Student in applied physics and electrical engineering
+Student in applied physics and electrical engineering and
+person exraordineere.
 
 ## My projects
 
